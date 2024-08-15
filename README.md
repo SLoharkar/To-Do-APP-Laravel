@@ -2,6 +2,12 @@
 
 This is a simple To-Do application built with Laravel and AJAX. The application allows users to create, update, and delete tasks using an interactive interface. The app utilizes AJAX for seamless interaction, preventing full-page reloads.
 
+## Website Trailer
+
+Check out the trailer for a quick overview of what the Laravel To-Do Application can do!
+
+https://github.com/user-attachments/assets/4123c288-67c3-449e-98ae-8386ade26fa0
+
 ## Features
 
 - **Create To-Do Items**: Add new tasks with a name, address, and message.
